@@ -1,7 +1,14 @@
+scoop
+smuggle
+smuggler
+favourable
 prophecy
+introvert
+immune
+vigilance
+vagrant
 constraint
 credulity
-vagrant
 pollster
 foster
 vigilant
@@ -55,7 +62,6 @@ savor
 empathy
 lives
 particular
-immune
 ephemeral
 diner
 retaliate
@@ -389,7 +395,6 @@ self
 introspective
 intrude
 introverted
-introvert
 esteem
 self respecting
 remedy
@@ -603,7 +608,6 @@ mauling
 corpse
 ghastly
 further
-vigilance
 comrade
 befall
 woe betide sb
