@@ -1,3 +1,7 @@
+alienate
+leak
+vinyl
+righteous
 scoop
 smuggle
 smuggler
@@ -32,7 +36,6 @@ assent
 grapheme
 coerce
 priest
-vinyl
 dispensary
 mitigate
 foe
@@ -617,7 +620,6 @@ quell
 planar
 ghoulish
 madam
-righteous
 exterminate
 desperate
 set on upon sb
